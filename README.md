@@ -9,11 +9,6 @@ Data analysis project exploring data of state and federal minimum wage laws in U
 
 Comsumer Price Index (CPI) is used to calculate modern day equilivants of wages from previous years.
 
-A dataset is created to identify the legal minimum wage by combining requirements from state and federal law.  
-
-* This project utilizes MySQL Workbench.
-* Download Here: https://dev.mysql.com/downloads/workbench/
-
 -Notable Observations-
  - Federal minimum wage remained unchanged for 10 years and increased three times from 2008 to 2010, corresponding with the Great Recession of 2008.
  - In 1968, 15 states relied on federal minimum wage, decreasing to 5 by 2014.
@@ -23,7 +18,10 @@ A dataset is created to identify the legal minimum wage by combining requirement
 
 See Related Projects: https://github.com/BradleyRossCodes
 
-It is important to note that this analysis is based on a specific time period and limited data. Generated results are only intended for the practice of concepts.
+A dataset is created to identify the legal minimum wage by combining requirements from state and federal law.  
+
+* This project utilizes MySQL Workbench.
+* Download Here: https://dev.mysql.com/downloads/workbench/
 
 Data was freely sourced. 
 Original Data Link: https://www.kaggle.com/datasets/lislejoem/us-minimum-wage-by-state-from-1968-to-2017
