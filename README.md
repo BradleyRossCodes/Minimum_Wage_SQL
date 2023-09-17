@@ -4,11 +4,8 @@
 
 This project explores the data related to state and federal minimum wage laws in the United States of America for states and U.S. territories. The Consumer Price Index is used to calculate modern-day equivalents of wages from previous years. A dataset is created to identify the legal minimum wage across states by combining requirements from state and federal law.
 
-*To run queries, follow the order from each script:*
-
- - minimum_wage_1 -> minimum_wage_2 -> minimum_wage_3 -> minimum_wage_4
+*To run queries, follow comments in script*
  - Import CSV files onto tables with matching names using the 'Data Table Import Wizard.'
-
 
 *Notable Observations:*
  - The Federal minimum wage remained unchanged for ten years and increased three times from 2008 to 2010, corresponding with the Great Recession of 2008.
