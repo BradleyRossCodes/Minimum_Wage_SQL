@@ -1,13 +1,17 @@
 # minimum_wage_sql
-$$ Practice project utilizing MySQL. 
+$$Practice project utilizing MySQL. 
 
 Run queries in order from each script:
  - minimum_wage_1 -> minimum_wage_2 -> minimum_wage_3 -> minimum_wage_4
  - Import CSV files onto table with matching name using 'Data Table Import Wizard)
 
+
+
 Data analysis project exploring data of state and federal minimum wage laws in Unitied States of America for states and U.S. territories. 
 
 Comsumer Price Index (CPI) is used to calculate modern day equilivants of wages from previous years.
+
+
 
 -Notable Observations-
  - Federal minimum wage remained unchanged for 10 years and increased three times from 2008 to 2010, corresponding with the Great Recession of 2008.
