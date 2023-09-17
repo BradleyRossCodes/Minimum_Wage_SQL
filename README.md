@@ -1,8 +1,8 @@
 # minimum_wage_sql
 
-## Practice project utilizing MySQL.
+## MySQL Project: Exploring Minimum Wage Data (1968-2020)
 
-This data analysis project explores the data related to state and federal minimum wage laws in the United States of America for states and U.S. territories. The Consumer Price Index (CPI) is used to calculate modern-day equivalents of wages from previous years. A dataset is created to identify the legal minimum wage by combining requirements from state and federal law.
+This project explores the data related to state and federal minimum wage laws in the United States of America for states and U.S. territories. The Consumer Price Index is used to calculate modern-day equivalents of wages from previous years. A dataset is created to identify the legal minimum wage across states by combining requirements from state and federal law.
 
 *To run queries, follow the order from each script:*
 
@@ -24,7 +24,9 @@ See Related Projects: https://github.com/BradleyRossCodes
 *Additional Information:*
 
 This project utilizes MySQL Workbench.
+
 Download MySQL Workbench here: https://dev.mysql.com/downloads/workbench/
 
 Data was freely sourced.
+
 Original Data Link: https://www.kaggle.com/datasets/lislejoem/us-minimum-wage-by-state-from-1968-to-2017
