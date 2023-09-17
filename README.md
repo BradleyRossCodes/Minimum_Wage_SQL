@@ -25,5 +25,6 @@ See Related Projects: https://github.com/BradleyRossCodes
 
 This project utilizes MySQL Workbench.
 Download MySQL Workbench here: https://dev.mysql.com/downloads/workbench/
+
 Data was freely sourced.
 Original Data Link: https://www.kaggle.com/datasets/lislejoem/us-minimum-wage-by-state-from-1968-to-2017
